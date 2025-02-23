@@ -1,0 +1,1 @@
+export const randomKey = () => `${Date.now()}-${Math.random().toString(2)}`
